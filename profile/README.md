@@ -1,4 +1,4 @@
-Hubble
+<img src="https://cdn.hubble.vote/branding/mono-dark/logo-title.png" width="250px" alt="Hubble logo" />
 
 The story of Hubble began in February 2019, when our founder was planning a campaign for the Ohio State Senate. Frustrated and priced out of existing tools available for tracking finances and collecting data from social media and campaign websites, he decided to create his own solution.
 
